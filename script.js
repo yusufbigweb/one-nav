@@ -1,1 +1,3 @@
-console.log('Yusuf Shaikh')
+function openclick(){
+    const openMenu = document.querySelector('ul');
+}
